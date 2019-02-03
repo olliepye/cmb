@@ -1,5 +1,4 @@
 # ----------------------------------------------------------------
-# This was produced in paraview by:
 # Oliver Pye (n9703977)
 # o.pye@connect.qut.edu.au
 # Queensland University of Technology
